@@ -14,7 +14,7 @@ timezone: America/Buenos_Aires
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Trip3rH4ck Blog # the main title
+title: Trip3rH4ck # the main title
 
 tagline: Ciberseguridad, Redes, Tecnología. # it will display as the subtitle
 
@@ -41,8 +41,8 @@ social:
     - https://twitter.com/Trip3rH4ck # change to your Twitter homepage
     - https://github.com/Trip3rH4ck # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/pminghetti
+    - https://www.linkedin.com/in/pmingheo
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /Trip3rH4ck.github.io/assets/logo.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
